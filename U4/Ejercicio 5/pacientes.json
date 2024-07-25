@@ -1,0 +1,25 @@
+{
+    "__class__": "ManejadorPacientes",
+    "pacientes": [
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "nombre": "Santiago",
+                "apellido": "Babsia",
+                "telefono": "2646728963",
+                "altura": "178",
+                "peso": "75"
+            }
+        },
+        {
+            "__class__": "Paciente",
+            "__atributos__": {
+                "nombre": "Pexa",
+                "apellido": "Juan",
+                "telefono": "2645816670",
+                "altura": "179",
+                "peso": "81"
+            }
+        }
+    ]
+}

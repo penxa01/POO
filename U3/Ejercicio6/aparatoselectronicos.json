@@ -1,0 +1,142 @@
+{
+    "__class__": "Lista",
+    "aparatos": [
+        {
+            "__class__": "Heladera",
+            "__atributos__": {
+                "marca": "Samsung",
+                "modelo": "RT32K5070",
+                "color": "Gris",
+                "pais":"China",
+                "precio": 126000.0,
+                "capacidad": 321,
+                "freezer": true,
+                "ciclica": true
+            }
+        },
+        {
+            "__class__": "Lavarropa",
+            "__atributos__": {
+                "marca": "Philco",
+                "modelo": "PHLS100P inverter",
+                "color": "Plateado",
+                "pais":"Argentina",
+                "precio": 125500.0,
+                "capacidad": 10,
+                "velocidad": 1200,
+                "cantProgramas":10,
+                "tipoCarga": "Frontal"
+            }
+        },
+        {
+            "__class__": "Lavarropa",
+            "__atributos__": {
+                "marca": "Enova",
+                "modelo": "ATH-EWM",
+                "color": "Gris",
+                "pais":"Chile",
+                "precio": 50000,
+                "capacidad": 5,
+                "velocidad": 1200,
+                "cantProgramas":10,
+                "tipoCarga": "Frontal"
+            }
+        },
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "TCL",
+                "modelo": "S6500",
+                "color": "Gris",
+                "pais":"Alemania",
+                "precio": 55000,
+                "tipoPantalla": "lcd",
+                "pulgadas": 42,
+                "tipoDefinicion": "HD",
+                "conexionInternet": false
+            }
+        },
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "Samsung",
+                "modelo": "Series 7",
+                "color": "Negro",
+                "pais": "China",
+                "precio": 153000.0,
+                "tipoPantalla": "led",
+                "pulgadas": 65.0,
+                "tipoDefinicion":"FULL HD",
+                "conexionInternet": true
+            }
+        },
+        {
+            "__class__": "Heladera",
+            "__atributos__": {
+                "marca": "Bambi",
+                "modelo": "2F1200",
+                "color": "Blanco",
+                "pais":"Brasil",
+                "precio": 80000,
+                "capacidad": 328,
+                "freezer": false,
+                "ciclica": true
+            }
+        },
+        {
+            "__class__": "Lavarropa",
+            "__atributos__": {
+                "marca": "Columbia",
+                "modelo": "LSC10000",
+                "color": "Blanco",
+                "pais": "EE.UU.",
+                "precio": 21000,
+                "capacidad": 10,
+                "velocidad": 600,
+                "cantProgramas":5,
+                "tipoCarga": "Superior"
+            }
+        },
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "Samsung",
+                "modelo": "Series 7",
+                "color": "Negro",
+                "pais": "Argentina",
+                "precio": 100000,
+                "tipoPantalla": "led",
+                "pulgadas": 55,
+                "tipoDefinicion": "FULL HD",
+                "conexionInternet": true
+            }
+        },
+        {
+            "__class__": "Heladera",
+            "__atributos__": {
+                "marca": "Patrick",
+                "modelo": "Inverter no frost",
+                "color": "Gris",
+                "pais": "China",
+                "precio": 340000,
+                "capacidad": 459,
+                "freezer": true,
+                "ciclica": false
+            }
+        },
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "Philips",
+                "modelo": "6800 Series",
+                "color": "Negro",
+                "pais": "Reino Unido",
+                "precio": 55000.0,
+                "tipoPantalla": "led",
+                "pulgadas": 55000.0,
+                "tipoDefinicion": "FULL HD",
+                "conexionInternet": true
+            }
+        }
+    ]
+}
